@@ -333,7 +333,7 @@ Interpretation:
 ![All 11 Outputs](Rsc/results_11_075s.gif)
 
 ## Further Works (Visual Evidence Only)
-### Lightweight SAM - Forklift result
+### Lightweight SAM - Calibration Window
 ![Lightweight SAM Forklift](Rsc/light_weight_sam.webp)
 
 ### Lightweight SAM - Pallet result
